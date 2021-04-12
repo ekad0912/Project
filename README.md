@@ -1,3 +1,5 @@
 # My Coursera Project
-- Tue Apr 13 01:37:05 +04 2021
-- 26 guessinggame.sh
+
+**Make date**: Tue Apr 13 01:59:16 +04 2021
+
+**Number of lines in program:** 26
